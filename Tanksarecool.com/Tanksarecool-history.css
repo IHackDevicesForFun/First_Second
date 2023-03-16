@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+}
+body {
+	height: auto;
+	width: 100%;
+	background-image: url("tanka2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+}
+
+h1 {
+	font-size: 500%;
+	color: rgb(255, 255, 255);
+	margin: 5%;
+	margin-bottom: 3%;
+	text-decoration: underline;
+	text-decoration-color: rgb(255, 255, 255);
+}
+
+#text {
+	color: rgb(255, 255, 255);
+	font-size: 300%;
+	margin: 0 5%;
+}
+#author {
+	color: rgb(255, 255, 255);
+	font-size: 300%;
+	margin: 2% 5%;
+
+}
+
+#blank {
+	margin: 12% 0;
+}
+
+#button {
+	display: inline-block;
+	margin-left: 5%;
+}
+#back {
+	font-size: 100%;
+	margin-left: 0;
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+}
+#back:hover {
+	text-decoration: underline;
+	text-decoration-color: rgb(0, 0, 0);
+}
